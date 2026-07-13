@@ -1,30 +1,72 @@
+![Version](https://img.shields.io/badge/version-v0.1-blue)
+![Status](https://img.shields.io/badge/status-active-success)
+![License](https://img.shields.io/badge/license-MIT-green)
+![Excel](https://img.shields.io/badge/Excel-Dashboard-darkgreen)
+![Feature](https://img.shields.io/badge/feature-KPI_Tracking-orange)
+
 # Sales Dashboard
 
-Reusable Excel sales dashboard template for KPI tracking, daily reports, weekly summaries, and monthly performance analysis.
+Reusable Excel dashboard template for sales tracking, KPI monitoring, daily reporting, and performance analysis.
 
-## Project Concept
+Designed for sales teams, small businesses, startups, operations teams, and business managers who need a simple, reusable dashboard built entirely in Microsoft Excel.
 
-Sales Dashboard is a reusable Excel template designed for sales teams, small businesses, startups, operations teams, and business managers.
+---
 
-It helps users record daily sales activities, monitor key performance indicators, and review weekly and monthly performance from a single Excel workbook.
+## Architecture
 
-## Target Users
+<p align="center">
+  <img src="images/architecture.svg" width="850" alt="Sales Dashboard Architecture">
+</p>
 
-- Sales Teams
-- Small Businesses
-- Startups
-- Operations Teams
-- Business Managers
+---
 
-## Workbook Structure
+## Features
+
+✓ Interactive Dashboard
+
+✓ KPI Cards
+
+✓ Daily Sales Tracking
+
+✓ Weekly Summary
+
+✓ Monthly KPI Dashboard
+
+✓ Revenue Tracking
+
+✓ Target vs Achievement
+
+✓ Conversion Rate Monitoring
+
+✓ Dynamic Charts
+
+✓ Conditional Formatting
+
+✓ Data Validation
+
+✓ Excel Tables
+
+✓ Formula-driven Dashboard
+
+✓ Minimal VBA
+
+✓ Reusable Excel Template
+
+---
+
+## Dashboard Structure
 
 ```text
 Home Dashboard
-      ↓
+      │
+      ▼
 Daily Input
-      ↓
+      │
+      ▼
 Weekly Summary
-      ↓
+      │
+      ▼
 Monthly KPI
-      ↓
+      │
+      ▼
 Settings
