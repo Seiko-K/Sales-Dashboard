@@ -1,3 +1,17 @@
+![Version](https://img.shields.io/badge/version-v0.1-blue)
+![Status](https://img.shields.io/badge/status-active-brightgreen)
+![License](https://img.shields.io/badge/license-MIT-green)
+![Excel](https://img.shields.io/badge/Excel-Dashboard-darkgreen)
+![Feature](https://img.shields.io/badge/feature-KPI%20Tracking-orange)
+
+# Sales Dashboard
+
+A reusable, formula-driven Microsoft Excel dashboard for sales tracking, KPI monitoring, and performance analysis.
+
+Designed as a lightweight business reporting solution that transforms daily sales records into management-ready KPIs, summaries, charts, and recent activity views without requiring VBA.
+
+![Sales Dashboard Overview](images/sales-dashboard-overview.png)
+
 # Sales Dashboard
 
 A reusable, formula-driven Microsoft Excel dashboard for sales tracking, KPI monitoring, and performance analysis.
