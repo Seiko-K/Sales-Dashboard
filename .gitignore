@@ -1,0 +1,17 @@
+# macOS
+.DS_Store
+
+# Microsoft Excel temporary / lock files
+~$*.xlsx
+~$*.xlsm
+~$*.xls
+
+# Microsoft Office temporary files
+~$*
+
+# VS Code local settings
+.vscode/
+
+# Temporary / backup files
+*.tmp
+*.bak
